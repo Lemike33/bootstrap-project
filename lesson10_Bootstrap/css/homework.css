@@ -1,0 +1,20 @@
+.page-holder {
+  min-height: 100pt;
+
+}
+
+.bg-cover {
+  background-size: cover !important;
+}
+
+.block-body {
+  background: whitesmoke;
+}
+
+.block-2-body {
+  background: red;
+}
+
+.bold-head {
+  font-width: bold;
+}
